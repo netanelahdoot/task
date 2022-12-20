@@ -1,0 +1,15 @@
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\course.exe.config
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\course.exe
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\course.pdb
+C:\Users\MeniAhdoot\source\repos\course\course\obj\Debug\course.csproj.AssemblyReference.cache
+C:\Users\MeniAhdoot\source\repos\course\course\obj\Debug\course.csproj.CoreCompileInputs.cache
+C:\Users\MeniAhdoot\source\repos\course\course\obj\Debug\course.exe
+C:\Users\MeniAhdoot\source\repos\course\course\obj\Debug\course.pdb
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\SolrNet.dll
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\System.ValueTuple.dll
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\SolrNet.pdb
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\SolrNet.xml
+C:\Users\MeniAhdoot\source\repos\course\course\bin\Debug\System.ValueTuple.xml
+C:\Users\MeniAhdoot\source\repos\course\course\obj\Debug\course.csproj.CopyComplete
